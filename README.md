@@ -85,7 +85,7 @@ This experience strengthened my belief in using **data for social transformation
 
  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-zaba&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-zeba&theme=tokyonight&hide_border=true" />
 </p>
 
 
