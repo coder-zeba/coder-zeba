@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Zaba (Ayesha)</h1>
+<h1 align="center">Hi 👋 I'm Zaba </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%7C+Data+%7C+Research+Focused;Building+Impact+Through+Technology" />
@@ -85,7 +85,7 @@ This experience strengthened my belief in using **data for social transformation
 
  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-zeba&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-zaba&theme=tokyonight&hide_border=true" />
 </p>
 
 
