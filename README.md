@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Zaba </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%7C+Data+%7C+Research+Focused;Building+Impact+Through+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring AI;Python+%7C+Data+%7C+Research+Focused;Building+Impact+Through+Technology" />
 </p>
 
 ---
