@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋 I'm Zaba </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring AI;Python+%7C+Data+%7C+Research+Focused;Building+Impact+Through+Technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+  size=25&duration=3000&color=0A6C2C&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+%7C+Data+%7C+Research-Focused;Building+Impact+Through+Technology" />
 </p>
+
 
 ---
 
@@ -17,9 +19,9 @@
 
 ## 🚀 Career Vision
 
-I aim to pursue a **Master’s in Data Science** and contribute to impactful research in:
+I aim to pursue a **Master’s in Artificial Intelligence,** and contribute to impactful research in:
 
-- 📊 Data Analytics  
+- 🤖 Artificial Intelligence  
 - 🤖 Machine Learning  
 - 📈 Intelligent Decision Systems  
 - 🌍 Social Impact through Data  
